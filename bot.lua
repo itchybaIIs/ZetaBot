@@ -1,7 +1,6 @@
 ﻿local discordia = require("discordia")
 local client = discordia.Client()
 local prefix = ">"
-local token = "Nzk2NDIyNTgyMjc4NDIyNTc5.X_XsVA.iURLRutgFy7AHQrUlaRSTkF4Jt8"
 
 
 local function checkAutorespond(userId)
