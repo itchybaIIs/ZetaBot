@@ -7,7 +7,7 @@ local token = "Nzk2NDIyNTgyMjc4NDIyNTc5.X_XsVA.iURLRutgFy7AHQrUlaRSTkF4Jt8"
 local function checkAutorespond(userId)
 	for i,v in pairs(autoResponder) do
 		if userId == i then
-			return v --LOL
+			return v --LOL WHAT
 		end
 	end
 end
